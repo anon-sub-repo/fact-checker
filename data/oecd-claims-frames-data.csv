@@ -1,0 +1,68 @@
+﻿claim,frames,tables,notes,GPT-4o zero-shot
+"Chile ranks third internationally in economic freedom, while the US ranks 17th.",Comparing_two_entities,,,"Occupy_rank, Occupy_rank_via_superlatives"
+"The lifespan of the average American is less than that of people in nations that spend far less on health care ... To put it bluntly, we spend more and die sooner.",Comparing_two_entities,,,Comparing_two_entities
+The US only ranks 25th worldwide on defense spending as a percentage of GDP.,Occupy_rank,,,Occupy_rank
+"The United States is number 14, number 15 in college graduation rates, and we're leading the world in high school dropout rates.","Occupy_rank, Comparing_two_entities",,,Occupy_rank
+The United States is 50th in life expectancy in the world.,Occupy_rank,,,Occupy_rank
+We now have our kids go to school about a month less than most other advanced countries.,Comparing_two_entities,,,Comparing_two_entities
+We have the highest corporate tax rates in the world right now.,Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+The United States has one of the highest corporate tax rates in the world.,Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+"Americans, in the last 30 years, have more than doubled the amount of money we are spending per child on education â€¦ and the results have gotten worse, not better.",Comparing_at_two_different_points_in_time,,,Comparing_at_two_different_points_in_time
+Corporate taxes will soon be the highest in the industrialized world.,Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+"In the late 1980s, the US was nearly the lowest-taxed nation in the world, and a quarter century later we're nearly the highest.",Comparing_at_two_different_points_in_time,,,Comparing_at_two_different_points_in_time
+Says more than eight countries lead the United States in the percentage of college graduates.,Occupy_rank,,,Comparing_two_entities
+The American healthcare system burns 18 percent of our national GDP. Nobody else is close.,Comparing_two_entities,,would be ratio,Comparing_two_entities
+We have the second highest corporate tax rate among our trading partners.,Occupy_rank,,,Occupy_rank
+"In Chile, they have 72 percent of the GDP in savings.",None,,would be ratio,None
+Says America spends over 17 percent of its GDP on health care costs when our closest competitor nations are spending about 12.,Comparing_two_entities,,,Comparing_two_entities
+"Our income, our GDP per capita, is almost 50 percent higher than it is for the average European.",Comparing_two_entities,,,Comparing_two_entities
+One generation ago we led the world in college graduation. We're 16th today.,Comparing_at_two_different_points_in_time,,,Comparing_at_two_different_points_in_time
+A million people a year come into the US legally. No other country even comes close to that figure.,Occupy_rank,,,Comparing_two_entities
+We have more scientists and engineers per square mile than anywhere in the world.,Comparing_two_entities,,,Comparing_two_entities
+Weâ€™re now spending 42 percent of our economy on government.,None,,would be ratio,Comparing_at_two_different_points_in_time
+The Canadians â€” they dropped their tax rates to 15 percent. The average tax rate on businesses in the industrialized world is 25 percent.,Comparing_two_entities,,,Comparing_two_entities
+Says US corporate tax rate is highest in the world at 35 percent.,Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+Says Texas has the 15th largest economy in the world.,Occupy_rank,,,Occupy_rank
+Says we allow more people into America legally than all other countries on the planet combined.,Comparing_two_entities,,,Comparing_two_entities
+The United States is behind many countries in Europe in terms of the ability of every kid in America to get ahead.,Comparing_two_entities,,,Comparing_two_entities
+"You donâ€™t see Norway losing population, and its taxes are astronomical.",None,,,None
+Americans work way more than an average of industrialized countries around the world.,Comparing_two_entities,,,Comparing_two_entities
+"Canadian middle class incomes are now higher than in the United States. They are working fewer hours for more pay â€¦ living longer on average, and facing less income inequality.",Comparing_two_entities,,,"Comparing_at_two_different_points_in_time, Comparing_two_entities"
+We've recovered from the recession faster and come farther than almost any other advanced country on Earth.,Comparing_two_entities,,,Comparing_two_entities
+The United States has the highest corporate tax rate in the free world.,Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+"Countries with a higher minimum wage than the United States $7.25 an hour include Denmark at $21, Australia at $15.81, Germany at $11 and France at $12.35.",Comparing_two_entities,,,Comparing_two_entities
+We have the third-lowest minimum wage â€¦ of developed countries.,Occupy_rank,,,Occupy_rank
+"In 1990, the US led the world in the percentage of 25-34 year olds with college degrees. Today we are in 12th place.",Comparing_at_two_different_points_in_time,,,Comparing_at_two_different_points_in_time
+The United States right now incarcerates more African-Americans as a percentage than apartheid South Africa did.,Comparing_two_entities,,,Comparing_two_entities
+"The United States doesnâ€™t have the highest murder rate among developed countries. You look at Russia, you look at Brazil, those are countries that have 3 to 5 times higher murder rates than what we have here in the United States.",Comparing_two_entities,,,Comparing_two_entities
+Greece is not a big economy. It's about the size of metropolitan Miami.,Comparing_two_entities,,,Comparing_two_entities
+We have the highest rate of childhood poverty of any major country on Earth.,Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+"The United States ranks second worst in income inequality across developed countries, after taxes and transfers.",Occupy_rank,,,Occupy_rank
+"Of the 25 wealthiest nations, we're the only one that doesn't provide basic health coverage.",Comparing_two_entities,,,Comparing_two_entities
+"There is not one of the Muslim nations that doesn't have discrimination against women, discrimination against gays, subjugation of other religious beliefs.",None,,,Occupy_rank_via_superlatives
+"The United States of America, right now, has the strongest, most durable economy in the world.",Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+"Making public colleges and universities tuition-free, that exists in countries all over the world, used to exist in the United States.",None,,,Comparing_at_two_different_points_in_time
+The United States has the highest rate of childhood poverty of almost any major country on Earth.,Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+"We work longer hours than any people in the industrialized world, including the Japanese.",Occupy_rank_via_superlatives,,,Comparing_two_entities
+Foreign aid is less than 1 percent of our federal budget.,None,,,None
+Tax dodging costs developing countries 200 billion dollars every year.,None,,,None
+The Nordic countries are some of the few countries that meet development aid goals.,None,,,Occupy_rank_via_superlatives
+Weâ€™re the only advanced democracy in the world that makes it harder for people to vote.,None,,,Comparing_two_entities
+We have the most productive workers in the world.,Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+Americaâ€™s federal business tax rate is the highest in the world.,Occupy_rank_via_superlatives,,,Occupy_rank_via_superlatives
+"The sanctions that we put on Russia for the Crimea annexation and meddling in Ukraine ... have absolutely crushed the ruble by 50 percent. And GDP from 2014 to 2016 is 50 percent down in Russia, as well.",Comparing_at_two_different_points_in_time,,,Comparing_at_two_different_points_in_time
+Americans are 25x more likely to be shot and killed than others in developed countries.,Comparing_two_entities,,,Comparing_two_entities
+Weâ€™re the only developed nation in the world that doesnâ€™t have paid maternity leave.,None,,,Occupy_rank_via_superlatives
+"You've got millions of families paying 40, 50, 60% of their limited incomes to put a roof over their heads.",None,,,None
+"Of the 14 wealthy OECD countries with a wealth tax in 1996, 10 have since then abandoned it.",,,,"Change_position_on_a_scale, Comparing_at_two_different_points_in_time"
+The United States is the ONLY industrialized country without universal healthcare.,None,,,Occupy_rank_via_superlatives
+Weâ€™re no longer the wealthiest middle class in the world.,Comparing_at_two_different_points_in_time,,,Comparing_at_two_different_points_in_time
+The United States is the only major industrial economy to have its unemployment rate triple since the coronavirus pandemic began.,Comparing_two_entities,,,Comparing_at_two_different_points_in_time
+President Joe Bidenâ€™s corporate tax rate increase would put us in line with other industrial nations.,Comparing_two_entities,,,Change_position_on_a_scale
+"Thirty years ago, the United States ranked sixth among advanced economies in the share of women in the workforce. You know where we are today? Twenty-three.",Comparing_at_two_different_points_in_time,,,Comparing_at_two_different_points_in_time
+"Inflation has been caused by the global economies shutting down all at once, reopening all at once. And â€¦ the US economy is recovering at a far faster pace than any other country in the OECD.",Comparing_two_entities,,,Comparing_two_entities
+In every other major industrial country in the world â€¦ inflation is higher.,Comparing_two_entities,,,Comparing_two_entities
+"We used to rank No 1 in the world in research and development, now we rank No 9. China used to rank No 8, now it ranks No 2.",Comparing_at_two_different_points_in_time,,,Comparing_at_two_different_points_in_time
+"We pay by far the highest prices in the world for prescription drugs, in some cases 10 times more than the people of any other country.",Occupy_rank_via_superlatives,,,Comparing_two_entities
+US inflation is now down close to 3% the lowest among the worldâ€™s leading economies.,Comparing_two_entities,,,"Change_position_on_a_scale, Occupy_rank_via_superlatives"
+"If you went anywhere in the world, you could get a prescription filled for 40% to 60% less than it costs in the US.",Comparing_two_entities,,,Comparing_at_two_different_points_in_time
